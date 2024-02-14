@@ -7,3 +7,4 @@
 "Fernando Alonso" 
 "Carlos Sainz"
 "Lewis Hamilton"
+"Vinicius"
